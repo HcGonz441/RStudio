@@ -33,3 +33,4 @@ suma3
 lista = list(dat[,1],dat[,2],dat[,3],dat[,4],dat[,5])
 
 lista
+
