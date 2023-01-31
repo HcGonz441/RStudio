@@ -22,9 +22,14 @@ suma2
 suma3 = 0
 
 a = 0
+suma3 = 0
 while (a <= 170) {
   suma3 = (suma3 + sum(dat[a,1]))  
-  a = a+1
+  a = a+2
 }
 
 suma3
+
+lista = list(dat[,1],dat[,2],dat[,3],dat[,4],dat[,5])
+
+lista
